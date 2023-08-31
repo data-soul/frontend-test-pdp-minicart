@@ -15,11 +15,11 @@ Referência visual disponível no Figma: [Figma](https://www.figma.com/proto/Oix
 Framework: ReactJS
 
 ## Critérios de Avaliação:
-Clean Code: O código deve seguir padrões de qualidade, sendo organizado, legível e mantendo consistência.
-Componentização: Avaliação da modularização e reusabilidade dos componentes.
-Gestão de Erros: Robustez no tratamento e feedback de erros oriundos da API ou interações do usuário.
-Responsividade: A solução deve ser otimizada para dispositivos de diversos tamanhos, garantindo uma experiência fluida.
-Performance: Otimizações para garantir um carregamento eficiente e responsivo da aplicação.
-Documentação: README detalhado sobre o processo de instalação, execução e testes da aplicação.
-Roteamento Dinâmico: Implementação eficaz de rotas dinâmicas utilizando o ID do produto como parâmetro.
-Interação com o Minicart: Implementação das funcionalidades de adição, remoção e alteração de produtos no minicart.
+- Clean Code: O código deve seguir padrões de qualidade, sendo organizado, legível e mantendo consistência.
+- Componentização: Avaliação da modularização e reusabilidade dos componentes.
+- Gestão de Erros: Robustez no tratamento e feedback de erros oriundos da API ou interações do usuário.
+- Responsividade: A solução deve ser otimizada para dispositivos de diversos tamanhos, garantindo uma experiência fluida.
+- Performance: Otimizações para garantir um carregamento eficiente e responsivo da aplicação.
+- Documentação: README detalhado sobre o processo de instalação, execução e testes da aplicação.
+- Roteamento Dinâmico: Implementação eficaz de rotas dinâmicas utilizando o ID do produto como parâmetro.
+- Interação com o Minicart: Implementação das funcionalidades de adição, remoção e alteração de produtos no minicart.
