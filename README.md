@@ -12,7 +12,7 @@ Desenvolver uma Página de Detalhes do Produto (PDP) utilizando a API https://fa
 Referência visual disponível no Figma: [Figma](https://www.figma.com/proto/OixBZcYeOxGcIJp1q9G1rM/Test---Front-End-Developer?type=design&node-id=1136-14890&t=6EINAr6UuuMntiZk-0&scaling=min-zoom&page-id=1%3A9&starting-point-node-id=1136%3A14890&show-proto-sidebar=1)
 
 ## Stack Tecnológica:
-Framework: ReactJS
+ReactJS
 
 ## Critérios de Avaliação:
 - Clean Code: O código deve seguir padrões de qualidade, sendo organizado, legível e mantendo consistência.
